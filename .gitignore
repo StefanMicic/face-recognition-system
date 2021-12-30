@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom files and folders
+src/data
+src/images
+src/face_recognition_model
+.idea
+database.ini
+inference.jpeg
